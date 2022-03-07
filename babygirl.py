@@ -48,13 +48,13 @@ START_TEXT = """
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 ┏━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id=1356469075)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [❤️  𝐃𝐎𝐋𝐋𝐘𝐱𝐌𝐔𝐒𝐈𝐂  ❤️](tg://user?id=5157675999)
 ┣★
-┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id={})
+┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5157675999)
 ┣★
 ┗━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id={}) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id=5157675999) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━**
 """
 
@@ -80,8 +80,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/DevilsHeavenMF"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/anonymous_was_bot")
+            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S"),
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/ROYAL_DOLLY_FIGHTER")
         ]
     ]
 )
@@ -207,7 +207,7 @@ async def cbcmds(_, query: CallbackQuery):
 » /unmute - UnMute The Assistant On Voice Chat
 » /playlist - Show You The Playlist
 » /restart - Restart The Bot
-🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦__ 🥵""")
+🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 ❤️  𝐃𝐎𝐋𝐋𝐘𝐱𝐌𝐔𝐒𝐈𝐂  ❤️ 🥵""")
 
 
 @bot.on_message(filters.command("start") & filters.private)
@@ -235,7 +235,7 @@ async def join_chat(c: Client, m: Message):
 
 @bot.on_message(filters.command("start") & filters.group)
 async def start_group(_, message):
-    await message.reply_photo(photo="https://telegra.ph/file/22ae93512721d5186932e.jpg",
+    await message.reply_photo(photo="https://te.legra.ph/file/b47d5bc8a380de7143132.jpg",
                               caption = f"ʜᴇʏ 😘 {message.from_user.mention},\n ᴍᴇ ɪᴢ ᴅᴇᴅ ʙᴀʙʏ​ 😴",
                               reply_markup = BUTTONS)
 

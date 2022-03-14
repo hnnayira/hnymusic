@@ -2,14 +2,14 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/naira0011/BabyGirlMusic/stargazers"><img src="https://img.shields.io/github/stars/naira0011/BabyGirlMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/naira0011/nairamusic/stargazers"><img src="https://img.shields.io/github/stars/naira0011/nairamusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/naira0011/BabyGirlMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousBoy1025/BabyGirlMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/naira0011/BabyGirlMusic/commits/AnonymousBoy1025"> <img src="https://img.shields.io/github/last-commit/AnonymousBoy1025/BabyGirlMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/naira0011/BabyGirlMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/naira0011/BabyGirlMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousBoy1025/BabyGirlMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/naira0011/BabyGirlMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousBoy1025/BabyGirlMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/naira0011/nairaMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousBoy1025/BabyGirlMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/naira0011/nairaMusic/commits/AnonymousBoy1025"> <img src="https://img.shields.io/github/last-commit/AnonymousBoy1025/BabyGirlMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/naira0011/nairaMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/naira0011/nairaMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousBoy1025/BabyGirlMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/naira0011/nairaMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousBoy1025/BabyGirlMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 

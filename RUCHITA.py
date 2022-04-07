@@ -48,13 +48,13 @@ START_TEXT = """
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 ┏━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [❤️  𝐃𝐎𝐋𝐋𝐘𝐱𝐌𝐔𝐒𝐈𝐂  ❤️](tg://user?id=5157675999)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [❤️ 𝗥𝘂𝗰𝗵𝗶𝘁𝗮  ❤️](tg://user?id=5241381386)
 ┣★
-┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5157675999)
+┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5241381386)
 ┣★
 ┗━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id=5157675999) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id=5241381386) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━**
 """
 
@@ -65,14 +65,14 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("✗ ʜᴇʟᴘ​ ✗", callback_data="cbcmds"),
-            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/anonymous_was_bot")
+            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/ruchi_ta_1")
         ],
         [
-            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/DevilsHeavenMF"),
-            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/DevilsHeavenMF")
+            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
+            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/RoyalFriendsforever")
         ],
         [
-            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/AnonymousBoy1025/BabyGirlMusic")
+            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/naira0011/BabyGirlMusic")
         ]
     ]
 )
@@ -80,8 +80,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/ROYAL_DOLLY_FIGHTER")
+            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/ruchi_ta_1")
         ]
     ]
 )
@@ -207,7 +207,7 @@ async def cbcmds(_, query: CallbackQuery):
 » /unmute - UnMute The Assistant On Voice Chat
 » /playlist - Show You The Playlist
 » /restart - Restart The Bot
-🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 ❤️  𝐃𝐎𝐋𝐋𝐘𝐱𝐌𝐔𝐒𝐈𝐂  ❤️ 🥵""")
+🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 ❤️  𝗥𝗨𝗖𝗛𝗜𝗧𝗔  ❤️ 🥵""")
 
 
 @bot.on_message(filters.command("start") & filters.private)

@@ -48,13 +48,13 @@ START_TEXT = """
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 ┏━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [❤️ 𝗥𝘂𝗰𝗵𝗶𝘁𝗮  ❤️](tg://user?id=5241381386)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [❤️ 𝗛𝗡𝗬  ❤️](https://t.me/HNYOP)
 ┣★
-┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5241381386)
+┣★ ᴏᴡɴᴇʀ : [𝗛𝗡𝗬 𝗥𝗢𝗕𝗢​](https://t.me/HNYROBO)
 ┣★
 ┗━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id=5241381386) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/HNYOP) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━**
 """
 
@@ -69,10 +69,10 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
-            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/RoyalFriendsforever")
+            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/HNYROBO")
         ],
         [
-            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/naira0011/BabyGirlMusic")
+            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/hnynaira/hnymusic")
         ]
     ]
 )
@@ -81,7 +81,7 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/ruchi_ta_1")
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/HNYOP")
         ]
     ]
 )
@@ -207,7 +207,7 @@ async def cbcmds(_, query: CallbackQuery):
 » /unmute - UnMute The Assistant On Voice Chat
 » /playlist - Show You The Playlist
 » /restart - Restart The Bot
-🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 ❤️  𝗥𝗨𝗖𝗛𝗜𝗧𝗔  ❤️ 🥵""")
+🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 ❤️ @HNYROBOT_BOT ❤️ 🥵""")
 
 
 @bot.on_message(filters.command("start") & filters.private)

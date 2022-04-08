@@ -43,10 +43,10 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/naira0011/BabyGirlMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ### Special Credits 💖
-- [𝐃𝐎𝐋𝐋𝐘𝐱𝐌𝐔𝐒𝐈𝐂](https://github.com/naira0011): Developer
+- [𝐇𝐍𝐘 𝐑𝐎𝐁𝐎](https://t.me/HNYOP): Developer
 
-### Support 🎑
-<a href="https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S"><img src="https://img.shields.io/badge/-dollyop-blue.svg?style=for-the-badge&logo=Telegram"></a>
+### Updates 🎑
+<a href="https://t.me/hnyrobo"><img src="https://img.shields.io/badge/-dollyop-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------

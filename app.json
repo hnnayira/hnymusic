@@ -1,9 +1,9 @@
 {
-  "name": "♡︎ dolly ɢɪʀʟ ᴍᴜsɪᴄ ♡︎",
+  "name": "♡︎ HNY ᴍᴜsɪᴄ ♡︎",
   "description": "A Telegram Bot To Play Songs In Telegram Group Video Chats. Powered by PyTGCalls.",
   "keywords": ["Music", " Videochat", "Voicechat", "Telegram"],
-  "logo": "https://te.legra.ph/file/b47d5bc8a380de7143132.jpg",
-  "repository": "https://github.com/naira0011/nairamusic",
+  "logo": "https://te.legra.ph/file/12c4b71de20e58a3c31a4.jpg",
+  "repository": "https://github.com/hnynaira/hnymusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -17,7 +17,7 @@
     "BOT_USERNAME": {
       "description": "Username of the bot without @, Get this value from @BotFather",
       "required": true,
-      "value": "Devil_X_Robot"
+      "value": "HNYROBOT_BOT"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",

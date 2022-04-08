@@ -2,7 +2,6 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/naira0011/nairamusic/stargazers"><img src="https://img.shields.io/github/stars/naira0011/nairamusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 <p align="center"><a href="https://t.me/hnyrobo"><img src="https://te.legra.ph/file/12c4b71de20e58a3c31a4.jpg"></a></p>
 
 Telegram bot for streaming music and video on telegram by the help of Telegram VideoChat Feature, 

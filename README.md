@@ -46,7 +46,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - [𝐇𝐍𝐘 𝐑𝐎𝐁𝐎](https://t.me/HNYOP): Developer
 
 ### Updates 🎑
-<a href="https://t.me/hnyrobo"><img src="https://img.shields.io/badge/-dollyop-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/hnyrobo"><img src="https://img.shields.io/badge/-hnyrobo-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------

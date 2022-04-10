@@ -40,7 +40,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - `/end` - stop music play
 
 <h2 align="center"> Deploy To Heroku </h2>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/naira0011/BabyGirlMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/hnynaira/hnymusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ### Special Credits 💖
 - [𝐇𝐍𝐘 𝐑𝐎𝐁𝐎](https://t.me/HNYOP): Developer
